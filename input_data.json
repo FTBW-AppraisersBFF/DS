@@ -1,0 +1,15 @@
+var jsonObject = [{
+
+        "bathrooms": 1
+    }, {
+        "bedrooms": 1
+    }, {
+        "squarefeet": 1
+    }, {
+        "yearbuilt": 1
+    }
+    }, {
+        "price": 1
+    }
+
+];
