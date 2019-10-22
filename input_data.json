@@ -7,7 +7,6 @@ var jsonObject = [{
         "squarefeet": 1
     }, {
         "yearbuilt": 1
-    }
     }, {
         "price": 1
     }
